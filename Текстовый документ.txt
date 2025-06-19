@@ -1,0 +1,39 @@
+https://www.figma.com/design/Wov5S6CCkyz7VGiR3fPsR3/Экзамен?node-id=0-1&p=f&t=IfQoxx5w15sqcqBB-0
+Shablons Volter
+react
+react
+Копировать компоненты из плагина
+C:\Windows\System32\drivers\etc
+Завтра, попробовать войти в капилот
+
+Перенести проект в гитхаб
+Все расширения
+auto rename tag
+Github codespace
+Github capilot
+Github capilot chat
+1. POST — создать заявку
+URL: http://localhost:3000/api/orders
+Method: POST
+Body → raw → JSON:
+
+2. GET — получить заявки пользователя
+URL: http://localhost:3000/api/orders?user_id=1
+Method: GET
+
+3. DELETE — удалить заявку (например, с id=5)
+URL: http://localhost:3000/api/admin/orders/5
+Method: DELETE
+
+4. POST — регистрация пользователя
+URL: http://localhost:3000/api/register
+Method: POST
+Body → raw → JSON:
+
+5. GET — получить все заявки (админ)
+URL: http://localhost:3000/api/admin/orders
+Method: GET
+
+6. DELETE — удалить пользователя (пример)
+URL: http://localhost:3000/api/admin/users/3
+Method: DELETE
